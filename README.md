@@ -1,4 +1,4 @@
-# 作品集
+# Portfolio
 
 ## 本科建筑设计作品集
 
@@ -6,10 +6,10 @@
 
 收录超高层综合体、体育馆、城市、居住区、绿色建筑设计。
 
-[进入本科作品集](作品集/本科建筑设计作品集/) · [查看 PDF](作品集/本科建筑设计作品集/本科建筑设计作品集.pdf)
+[查看 PDF](undergraduate.pdf) · [下载 PDF](https://github.com/Singlong404/Portfolio/raw/refs/heads/main/undergraduate.pdf)
 
 ## 研究生作品集
 
 尚未制作，已预留位置，后续补充。
 
-[进入预留目录](作品集/研究生作品集/)
+[进入预留目录](graduate/)
